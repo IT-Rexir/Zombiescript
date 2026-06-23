@@ -1,3 +1,4 @@
+local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 local Window = Rayfield:CreateWindow({
    Name = "Rex Script V1",
    Icon = 0, 
